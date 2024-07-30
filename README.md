@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning Backend
 - 💬 Ask me anything about React 
-- 📫 How to reach me: pghimire024@rku.com
+- 📫 How to reach me: pghimire024@rku.ac.in
 - 😄 My website: onlinebooking-dusky.vercel.app
 - ⚡ Fun fact: I'm comming to teen
   
